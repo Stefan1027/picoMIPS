@@ -1,0 +1,10 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+-sv
+-q
++ncaccess+rcw
++gui
+picomips_tb.sv
+picomips.sv

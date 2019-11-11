@@ -1,0 +1,6 @@
+//
+// File created by:  irun
+// Do not modify this file
+
+s1::(29Mar2018:16:12:06):( ncverilog -sv -q picomips_tb.sv picomips.sv )
+s2::(29Mar2018:16:12:33):( ncverilog -sv -q +ncaccess+rcw +gui picomips_tb.sv picomips.sv )

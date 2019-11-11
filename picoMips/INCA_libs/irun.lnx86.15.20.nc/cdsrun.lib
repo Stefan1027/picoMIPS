@@ -1,0 +1,2 @@
+SOFTINCLUDE /eda/cadence/2016-17/RHELx86/INCISIVE_15.20.010/tools/inca/files/cds.lib
+define worklib ../worklib
